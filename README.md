@@ -232,3 +232,4 @@ t_list	*list_map(t_list *head, void *(*f)(void *), void (*del)(void *))
 	return (new_lst);
 }
 ```
+
